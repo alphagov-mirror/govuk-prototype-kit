@@ -1,5 +1,15 @@
 # Unreleased
 
+# 9.10.0 (Feature release)
+
+## New features
+
+- [Pull request #928: Update to GOV.UK Frontend v3.9.0](https://github.com/alphagov/govuk-prototype-kit/pull/928)
+
+## Fixes
+
+- [Pull request #918: Update GOV.UK Notify documentation to remove ‘whitelist‘](https://github.com/alphagov/govuk-prototype-kit/pull/918)
+
 # 9.9.0 (Feature release)
 
 ## New features
